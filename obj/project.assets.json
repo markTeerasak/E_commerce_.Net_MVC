@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noah/repo/E_commerct_.Net_MVC/E_commerct_.Net_MVC.csproj",
+      "projectUniqueName": "/Users/noah/repo/E_commerce_.Net_MVC/E_commerct_.Net_MVC.csproj",
       "projectName": "E_commerct_.Net_MVC",
-      "projectPath": "/Users/noah/repo/E_commerct_.Net_MVC/E_commerct_.Net_MVC.csproj",
+      "projectPath": "/Users/noah/repo/E_commerce_.Net_MVC/E_commerct_.Net_MVC.csproj",
       "packagesPath": "/Users/noah/.nuget/packages/",
-      "outputPath": "/Users/noah/repo/E_commerct_.Net_MVC/obj/",
+      "outputPath": "/Users/noah/repo/E_commerce_.Net_MVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/noah/.nuget/NuGet/NuGet.Config"
